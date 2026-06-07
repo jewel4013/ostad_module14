@@ -16,15 +16,15 @@
                         <ul class="list-unstyled">
                             <li class="mb-3">
                                 <i class="fas fa-map-marker-alt text-primary me-2"></i>
-                                <span>123 Main Street, New York, NY 10001</span>
+                                <span>Kamal Ataturk Avenue, Banani, Dhaka</span>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-envelope text-primary me-2"></i>
-                                <a href="mailto:john@example.com">john@example.com</a>
+                                <a href="mailto:john@example.com">jewel.rana.4013@gmail.com</a>
                             </li>
                             <li class="mb-3">
                                 <i class="fas fa-phone text-primary me-2"></i>
-                                <a href="tel:+1234567890">(123) 456-7890</a>
+                                <a href="tel:+1234567890">+88 01319-331904</a>
                             </li>
                         </ul>
                     </div>
@@ -33,7 +33,7 @@
                         <h5 class="mb-3">Follow Me</h5>
                         <div class="social-links">
                             <a href="#" class="text-decoration-none me-3"><i class="fab fa-facebook-f fa-lg"></i></a>
-                            <a href="#" class="text-decoration-none me-3"><i class="fab fa-twitter fa-lg"></i></a>
+                            <a href="#" class="text-decoration-none me-3"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="#" class="text-decoration-none me-3"><i class="fab fa-linkedin-in fa-lg"></i></a>
                             <a href="#" class="text-decoration-none me-3"><i class="fab fa-instagram fa-lg"></i></a>
                             <a href="#" class="text-decoration-none"><i class="fab fa-github fa-lg"></i></a>
@@ -75,7 +75,7 @@
     <section class="py-0">
         <div class="container-fluid px-0">
             <div class="ratio ratio-21x9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256836312!2d-73.9878449241646!3d40.74844097138988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1689877607784!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13214.663622011421!2d90.39540584452287!3d23.794774842071728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c70c15ea1de1%3A0x97856381e88fb311!2sBanani%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1780798799225!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>
