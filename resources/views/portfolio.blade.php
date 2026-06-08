@@ -17,7 +17,7 @@
                     <button type="button" class="btn btn-outline-primary active" data-filter="all">All</button>
                     <button type="button" class="btn btn-outline-primary" data-filter="web">Web Design</button>
                     <button type="button" class="btn btn-outline-primary" data-filter="app">Mobile Apps</button>
-                    <button type="button" class="btn btn-outline-primary" data-filter="graphic">Graphic Design</button>
+                    <button type="button" class="btn btn-outline-primary" data-filter="others">Graphic Design</button>
                 </div>
             </div>
             
@@ -27,7 +27,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project1.jpg') }}" class="card-img-top" alt="E-commerce Website">
+                            <img src="{{ asset('assets/images/ecommerce.png') }}" class="card-img-top" alt="E-commerce Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">E-commerce Website</h5>
@@ -44,10 +44,10 @@
                 </div>
                 
                 <!-- Project 2 -->
-                <div class="col-lg-4 col-md-6 portfolio-item" data-category="app">
+                <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project2.jpg') }}" class="card-img-top" alt="Fitness App">
+                            <img src="{{ asset('assets/images/corporate.png') }}" class="card-img-top" alt="Fitness App">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Fitness Tracking App</h5>
@@ -57,17 +57,17 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Fitness Tracking App</h5>
+                            <h5 class="card-title">Corporate Website</h5>
                             <p class="card-text text-muted">Mobile App</p>
                         </div>
                     </div>
                 </div>
                 
                 <!-- Project 3 -->
-                <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
+                <div class="col-lg-4 col-md-6 portfolio-item" data-category="others">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="{{ asset('assets/images/project3.jpg') }}" class="card-img-top" alt="Corporate Website">
+                            <img src="{{ asset('assets/images/seo.jpg') }}" class="card-img-top" alt="Corporate Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Corporate Website</h5>
@@ -77,28 +77,28 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Corporate Website</h5>
+                            <h5 class="card-title">SEO Services</h5>
                             <p class="card-text text-muted">Web Design</p>
                         </div>
                     </div>
                 </div>
                 
                 <!-- Project 4 -->
-                <div class="col-lg-4 col-md-6 portfolio-item" data-category="graphic">
+                <div class="col-lg-4 col-md-6 portfolio-item" data-category="others">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="https://placehold.co/600x400/png" class="card-img-top" alt="Brand Identity">
+                            <img src="{{ asset('assets/images/marketing.jpg') }}" class="card-img-top" alt="Brand Identity">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
-                                    <h5 class="text-white">Brand Identity</h5>
+                                    <h5 class="text-white">Degital Marketing</h5>
                                     <p class="text-white">Complete branding package for a startup.</p>
                                     <a href="#" class="btn btn-sm btn-light" data-bs-toggle="modal" data-bs-target="#project4Modal">View Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Brand Identity</h5>
-                            <p class="card-text text-muted">Graphic Design</p>
+                            <h5 class="card-title">Degital Marketing</h5>
+                            <p class="card-text text-muted">We provide degital marketing all kind of services</p>
                         </div>
                     </div>
                 </div>
@@ -107,17 +107,17 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="app">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="https://placehold.co/600x400/png" class="card-img-top" alt="Travel App">
+                            <img src="{{ asset('assets/images/mobileapp.png') }}" class="card-img-top" alt="Travel App">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
-                                    <h5 class="text-white">Travel Planner App</h5>
+                                    <h5 class="text-white">App Design</h5>
                                     <p class="text-white">Mobile application for planning and booking trips.</p>
                                     <a href="#" class="btn btn-sm btn-light" data-bs-toggle="modal" data-bs-target="#project5Modal">View Details</a>
                                 </div>
                             </div>
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Travel Planner App</h5>
+                            <h5 class="card-title">App Design</h5>
                             <p class="card-text text-muted">Mobile App</p>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                 <div class="col-lg-4 col-md-6 portfolio-item" data-category="web">
                     <div class="card border-0 shadow-sm overflow-hidden">
                         <div class="portfolio-img-wrapper">
-                            <img src="https://placehold.co/600x400/png" class="card-img-top" alt="Restaurant Website">
+                            <img src="{{ asset('assets/images/Restaurants.jpeg') }}" class="card-img-top" alt="Restaurant Website">
                             <div class="portfolio-overlay">
                                 <div class="overlay-content">
                                     <h5 class="text-white">Restaurant Website</h5>
