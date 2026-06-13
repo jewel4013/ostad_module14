@@ -18,11 +18,15 @@
                                 <i class="fas fa-code fa-lg"></i>
                             </div>
                             <h5 class="card-title">Web Development</h5>
-                            <p class="card-text">Custom website development using the latest technologies to ensure fast, secure, and scalable solutions.</p>
+                            <p class="card-text">I do custom website development using the latest technologies like PHP Laravel to ensure fast, secure, and scalable solutions.</p>
                             <ul class="list-unstyled text-start">
-                                <li><i class="fas fa-check text-primary me-2"></i> Responsive Design</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> CMS Integration</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> E-commerce Solutions</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>Responsive & Mobile-First Design</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>Dynamic CMS Integration</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>End-to-End E-commerce Solutions</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>Custom Web Application Development</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>Speed Optimization & Core Web Vitals Fix</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>On-Page & Technical SEO Setup</li>
+                                <li><i class="fas fa-check text-primary me-2"></i>24/7 Technical Support & Maintenance</li>                                
                             </ul>
                         </div>
                     </div>
@@ -36,9 +40,12 @@
                             <h5 class="card-title">Web Design</h5>
                             <p class="card-text">Beautiful, user-friendly designs that reflect your brand and engage your audience effectively.</p>
                             <ul class="list-unstyled text-start">
-                                <li><i class="fas fa-check text-primary me-2"></i> UI/UX Design</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> Wireframing</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> Prototyping</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> User Research & UX Strategy</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Information Architecture & User Flows</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> High-Fidelity Wireframes & Interactive Prototypes</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Custom UI Design & Responsive Layouts</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Comprehensive Design Systems</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Website Redesign & UI/UX Audit</li>                                
                             </ul>
                         </div>
                     </div>
@@ -52,9 +59,13 @@
                             <h5 class="card-title">Mobile App Development</h5>
                             <p class="card-text">Cross-platform mobile applications that work seamlessly on both iOS and Android devices.</p>
                             <ul class="list-unstyled text-start">
-                                <li><i class="fas fa-check text-primary me-2"></i> React Native</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> Flutter</li>
-                                <li><i class="fas fa-check text-primary me-2"></i> Native Development</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Custom Cross-Platform App Development</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Secure Backend & RESTful API Integration</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Push Notifications & Firebase Setu</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Payment Gateway & In-App Purchases</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> App Store & Google Play Store Publishin</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> App Performance & Speed Optimizatio</li>
+                                <li><i class="fas fa-check text-primary me-2"></i> Long-Term Maintenance & Version Upgrades </li>
                             </ul>
                         </div>
                     </div>
